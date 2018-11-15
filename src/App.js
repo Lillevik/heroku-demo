@@ -12,6 +12,7 @@ class App extends Component {
                         This has been edited and pushed directly to git :)
                     </p>
                     <p>Added another p element :D</p>
+                    <p>Test pullrequest</p>
                     <a
                         className="App-link"
                         href="https://reactjs.org"
