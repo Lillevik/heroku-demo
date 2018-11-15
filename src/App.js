@@ -12,13 +12,14 @@ class App extends Component {
                         This has been edited and pushed directly to git :)
                     </p>
                     <p>Added another p element :D</p>
+                    <p>Test pullrequest</p>
                     <a
                         className="App-link"
                         href="https://reactjs.org"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Learn React
+                        Learn React ove var her
                     </a>
                 </header>
             </div>
